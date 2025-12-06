@@ -1,0 +1,12 @@
+[
+  {
+    "id": "prompt_brand_001",
+    "title": "PROMPT — Личный бренд",
+    "short": "Матрица контента, 10 готовых постов.",
+    "price": 7,
+    "currency": "USD",
+    "thumb": "assets/product_brand.webp",
+    "file": "files/prompt_brand_001.pdf",
+    "preview": "Создай подробную контент-стратегию личного бренда..."
+  }
+]
